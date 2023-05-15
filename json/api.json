@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "info": {
       "title": "Dokumentasi API",
-      "description": "Dokumentasi API ini dari website reqres.in",
+      "description": "Dokumentasi API ini dari menggunakan API public (yang dapat digunakan tanpa menggunakan key untuk mengaksesnya. Public API tersebut berasal dari laman https://reqres.in/",
       "version": "1.0.0 Beta"
     },
     "host": "reqres.in",
